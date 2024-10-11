@@ -28,19 +28,19 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "tripathirajeev9801@gmail.com",
+    email: "rajeetripathi9801@gmail.com",
     tel: "+91 8467908357",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/tripathiraj981",
+        url: "https://github.com/rajeevtripathi9801",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/tripathiraj981",
+        url: "https://www.linkedin.com/in/rajeevtripathi9801",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -149,7 +149,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/tripathiraj981/Chat-Backend",
+          href: "https://github.com/rajeevtripathi9801/Chat-Backend",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -181,7 +181,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/tripathiraj981/Dapp-Blog",
+          href: "https://github.com/rajeevtripathi9801/Dapp-Blog",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -203,7 +203,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/tripathiraj981/Intern-Applier",
+          href: "https://github.com/rajeevtripathi9801/Intern-Applier",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -226,7 +226,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/tripathiraj981/Digital-Signature",
+          href: "https://github.com/rajeevtripathi9801/Digital-Signature",
           icon: <Icons.github className="size-3" />,
         },
       ],
