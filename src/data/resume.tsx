@@ -97,7 +97,7 @@ export const DATA = {
       start: "August 2022",
       end: "June 2023",
       description:
-        "Co-developed a prototype web app as well as hybrid mobile app with another friend to build a ecommerce platform selling shoes through operating with local vendors who dont have aceess to Amazon marketplace. Implemented a realtime service for the React Native app in Typescript. Implemented 3 JS for 3D animations of the shoes to increase the shoe sale and builiding trust for the shoes.",
+        "Co-developed a prototype web app as well as hybrid mobile app for a ecommerce platform selling shoes through operating with local vendors who dont have aceess to Amazon marketplace. Implemented a realtime service for the React Native app in Typescript. Implemented 3D animations of the shoes to increase the shoe sale and builiding trust for the shoes.",
     },
     {
       company: "Google Developer Student Club",
@@ -106,8 +106,8 @@ export const DATA = {
       location: "Chandigarh, India",
       logoUrl: "\gdsc.png",
       title: "Technical Member",
-      start: "July 2022",
-      end: "May 2023",
+      start: "July 2021",
+      end: "May 2022",
       description:
         "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students about core computer concepts.",
     },
