@@ -11,7 +11,7 @@ export const DATA = {
     "Software Engineer building 5G systems for India.",
   summary:
     "Software Engineer currently working at Nokia, India building and optimising 5G systems of India. I pursued a bachelors degree in computer science where I interned at Nokia for around 10 months in my final year, prior to that cofounded a ecommerce platform for people and reached annual revenue of $10k in  10 months of opertation. Academically I also got my paper accepted in ICBAR on topic of Distributed System using NodeJS and MongoDB.",
-  avatarUrl: "/me.jpeg",
+  avatarUrl: "/me.jpg",
   skills: [
     "C++",
     "Java",
