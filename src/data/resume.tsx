@@ -3,6 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Rajeev Tripathi",
+  initials: "RT",
   url: "https://tripathiraj9801.vercel.app",
   location: "Bengauluru, India",
   locationLink: "https://www.google.com/maps/place/bengaluru",
@@ -88,9 +89,10 @@ export const DATA = {
     {
       company: "Sneakily",
       badges: [],
+      href: "",
       location: "Chandigarh, India",
       title: "Co Founder",
-      logoUrl: "/sneakily.png",
+      logoUrl: "",
       start: "August 2022",
       end: "June 2023",
       description:
@@ -99,12 +101,14 @@ export const DATA = {
     {
       company: "Google Developer Student Club",
       badges: [],
+      href: "https://www.nokia.com/",
       location: "Chandigarh, India",
+      logoUrl: "",
       title: "Technical Member",
       start: "July 2022",
       end: "May 2023",
       description:
-        "Facilitated events for students’ interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students about core computer concepts.",
+        "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students about core computer concepts.",
     },
   ],
   education: [
@@ -128,7 +132,8 @@ export const DATA = {
   projects: [
     {
       title: "Chat Backend",
-      href: "https://chatcollect.com",
+      href: "",
+      dates: "",
       active: true,
       description:
         " Implemented a horizontally scalable chat app with Nginx-optimized Socket.IO, reducing latency by 50% and database queries by 70% through Redis caching with Kubernetes-based infrastructure with Docker containers, achieving 20% cost reduction and 40% overall performance improvement.",
@@ -153,6 +158,8 @@ export const DATA = {
     },
     {
       title: "Decentralised Blogging Platform",
+      href: "",
+      dates: "",
       active: true,
       description:
         "Developed a Solidity-based blogging platform on Ethereum with 100% code coverage, integrating IPFS for decentralized storage with enhanced UX through Next.js server-side rendering and client routing, achieving 10% faster load times.",
@@ -182,6 +189,8 @@ export const DATA = {
     },
     {
       title: "Intern Applier",
+      href: "",
+      dates: "",
       active: true,
       description:
         "Automated job application bot built with Python, Selenium, and Beautiful Soup. Scrapes multiple job boards, filters listings, auto-fills applications, and handles various submission formats. Streamlines job search process, enabling mass applications while adhering to ethical web scraping practices.",
@@ -202,6 +211,8 @@ export const DATA = {
     },
     {
       title: "Digital Signature AES",
+      href: "",
+      dates: "",
       active: true,
       description:
         "This project demonstrates a secure connection between a client and server where data is sent in an encrypted manner. It implements simplified versions of AES (Advanced Encryption Standard), RSA (Rivest–Shamir–Adleman), and Digital Signature generation and verification using Python and socket programming.",
