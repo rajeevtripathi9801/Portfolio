@@ -92,7 +92,7 @@ export const DATA = {
       href: "",
       location: "Chandigarh, India",
       title: "Co Founder",
-      logoUrl: "",
+      logoUrl: "\sneakily.jpg",
       start: "August 2022",
       end: "June 2023",
       description:
@@ -103,7 +103,7 @@ export const DATA = {
       badges: [],
       href: "https://www.nokia.com/",
       location: "Chandigarh, India",
-      logoUrl: "",
+      logoUrl: "\gdsc.png",
       title: "Technical Member",
       start: "July 2022",
       end: "May 2023",
