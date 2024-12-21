@@ -14,7 +14,7 @@ export const DATA = {
   avatarUrl: "/me.jpg",
   skills: [
     "Python",
-    "Go lang"
+    "Go lang",
     "Django",
     "Postgres",
     "Docker",
