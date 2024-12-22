@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer building 5G systems for India.",
   summary:
-    "I’m Rajeev Tripathi, a Software Engineer at Nokia,optimizing 5G systems and building scalable solutions. During my time here, I’ve worked on diverse projects, from developing authentication systems to enhancing system performance, impacting millions of users. A graduate of Chandigarh University, I co-founded an e-commerce venture that generated $10k in revenue within 10 months and published a research paper on distributed systems at ICBAR. I specialize in Python, C++, and Kubernetes, with a focus on high-performance, scalable solutions..",
+    "I’m Rajeev Tripathi, a Software Engineer at Nokia,optimizing 5G systems and building scalable solutions. During my time here, I’ve worked on diverse projects, from developing auth systems to enhancing system performance, impacting millions of users. A graduate of Chandigarh University, I co-founded an e-commerce venture that generated $10k in revenue within 10 months and published a research paper on distributed systems at ICBAR. I specialize in Python, C++, and Kubernetes, with a focus on high-performance, scalable solutions.",
   avatarUrl: "/me.jpg",
   skills: [
     "Python",
@@ -19,8 +19,7 @@ export const DATA = {
     "PostgreSQL",
     "Docker",
     "Kubernetes",
-    "AWS (EC2, EKS)",
-    "TypeScript"
+    "AWS (EC2, EKS)"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -72,7 +71,7 @@ export const DATA = {
       start: "September 2024",
       end: "Present",
       description:
-        "Developed and tested back-end systems of CNUM feature essential for integrating network elements to the integration plan for circle owners of 5G impacting around 50 million users in India and Italy and implemented a robust multipart upload feature utilizing AWS S3 bucket, significantly enhancing file transfer efficiency."
+        "Developed and tested back-end systems of CNUM feature essential for integrating network elements to the integration plan for circle owners of 5G impacting around 50 million users in India."
     },
     {
       company: "Nokia",
@@ -84,7 +83,7 @@ export const DATA = {
       start: "August 2023",
       end: "May 2024",
       description:
-        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed, while 25% improvement in API response time by migrating a script from Jruby to Golang and 13% lower server load achieved and remove duplicate search by implementing a Binary Search Tree.",
+        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed.",
     },
     {
       company: "Sneakily",
@@ -96,7 +95,7 @@ export const DATA = {
       start: "August 2022",
       end: "June 2023",
       description:
-        "Co-developed a prototype web app as well as hybrid mobile app for a ecommerce platform selling shoes through operating with local vendors who dont have aceess to Amazon marketplace. Implemented a realtime service for the React Native app in Typescript. Implemented 3D animations of the shoes to increase the shoe sale and builiding trust for the shoes.",
+        "Co-developed a prototype web app as well as hybrid mobile app for a ecommerce platform selling shoes through operating with local vendors who dont have aceess to Amazon marketplace.",
     },
     {
       company: "Google Developer Student Club",
@@ -108,7 +107,7 @@ export const DATA = {
       start: "July 2021",
       end: "May 2022",
       description:
-        "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students about core computer concepts.",
+        "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students.",
     },
   ],
   education: [
