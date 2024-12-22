@@ -10,16 +10,17 @@ export const DATA = {
   description:
     "Software Engineer building 5G systems for India.",
   summary:
-    "Software Engineer currently working as a SWE at Nokia, building and optimising 5G systems of India. I pursued a bachelors degree in computer science where I interned at Nokia for around 10 months in my final year, prior to that cofounded a ecommerce and reached net revenue of $10k in 10 months of operation. Academically, I also got my paper accepted in ICBAR on topic of Distributed System using NodeJS and MongoDB.",
+    "I’m Rajeev Tripathi, a Software Engineer at Nokia,optimizing 5G systems and building scalable solutions. During my time here, I’ve worked on diverse projects, from developing authentication systems to enhancing system performance, impacting millions of users. A graduate of Chandigarh University, I co-founded an e-commerce venture that generated $10k in revenue within 10 months and published a research paper on distributed systems at ICBAR. I specialize in Python, C++, and Kubernetes, with a focus on high-performance, scalable solutions..",
   avatarUrl: "/me.jpg",
   skills: [
     "Python",
     "Go lang",
     "Django",
-    "Postgres",
+    "PostgreSQL",
     "Docker",
     "Kubernetes",
-    "AWS (EC2, EKS)"
+    "AWS (EC2, EKS)",
+    "TypeScript"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -71,19 +72,19 @@ export const DATA = {
       start: "September 2024",
       end: "Present",
       description:
-        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed, while 25% improvement in API response time by migrating a script from Jruby to Golang and 13% lower server load achieved and remove duplicate search by implementing a Binary Search Tree.",
+        "Developed and tested back-end systems of CNUM feature essential for integrating network elements to the integration plan for circle owners of 5G impacting around 50 million users in India and Italy and implemented a robust multipart upload feature utilizing AWS S3 bucket, significantly enhancing file transfer efficiency."
     },
     {
       company: "Nokia",
       badges: [],
       href: "https://www.nokia.com/",
-      location: "Remote",
+      location: "Bengaluru, India",
       title: "Software Engineer Intern",
       logoUrl: "/nokia.png",
       start: "August 2023",
       end: "May 2024",
       description:
-        "Developed and tested back-end systems of CNUM feature essential for integrating network elements to the integration plan for circle owners of 5G impacting around 50 million users in India and Italy and implemented a robust multipart upload feature utilizing AWS S3 bucket, significantly enhancing file transfer efficiency.",
+        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed, while 25% improvement in API response time by migrating a script from Jruby to Golang and 13% lower server load achieved and remove duplicate search by implementing a Binary Search Tree.",
     },
     {
       company: "Sneakily",
