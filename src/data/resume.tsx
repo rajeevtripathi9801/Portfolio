@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer building 5G systems for India.",
   summary:
-    "I’m Rajeev Tripathi, a Software Engineer at Nokia,optimizing 5G systems and building scalable solutions. During my time here, I’ve worked on diverse projects, from developing auth systems to enhancing system performance, impacting millions of users. A graduate of Chandigarh University, I co-founded an e-commerce venture that generated $10k in revenue within 10 months and published a research paper on distributed systems at ICBAR. I specialize in Python, C++, and Kubernetes, with a focus on high-performance, scalable solutions.",
+    "I’m Rajeev Tripathi, a Software Engineer at Nokia,optimizing 5G systems and building scalable solutions. During my time here, I’ve worked on diverse projects, from developing auth systems to enhancing system performance, impacting millions of users. As a computer science  graduate, I co-founded an e-commerce venture that generated $10k in revenue within 10 months and published a research paper on distributed systems at ICBAR. I specialize in Python, C++, and Kubernetes, with a focus on high-performance, scalable solutions.",
   avatarUrl: "/me.jpg",
   skills: [
     "Python",
@@ -43,13 +43,7 @@ export const DATA = {
 
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/tripathiraj9801",
-        icon: Icons.x,
-
-        navbar: true,
-      },
+      
       email: {
         name: "Send Email",
         url: "#",
@@ -83,7 +77,7 @@ export const DATA = {
       start: "August 2023",
       end: "May 2024",
       description:
-        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed.",
+        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed enhancing user experience",
     },
     {
       company: "Sneakily",
