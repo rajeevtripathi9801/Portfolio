@@ -81,7 +81,7 @@ export const DATA = {
       title: "Software Engineer Intern",
       logoUrl: "/nokia.png",
       start: "August 2023",
-      end: "May 2024",
+      end: "July 2024",
       description:
         "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed enhancing user experience",
     },
@@ -93,7 +93,7 @@ export const DATA = {
       title: "Co Founder",
       logoUrl: "\sneakily.jpg",
       start: "August 2022",
-      end: "June 2023",
+      end: "April 2023",
       description:
         "Co-developed a prototype web app as well as hybrid mobile app for a ecommerce platform selling shoes through operating with local vendors who dont have aceess to Amazon marketplace.",
     },
