@@ -71,7 +71,19 @@ export const DATA = {
       start: "September 2024",
       end: "Present",
       description:
-        "Developed and tested back-end systems of CNUM feature essential for integrating network elements to the integration plan for circle owners of 5G impacting around 50 million users in India."
+        "Developed and tested back-end systems for the CNUM feature, which played a key role in integrating network elements for 5G rollout. The system facilitated the integration plan for circle owners, ensuring effective network management."
+    },
+    {
+      company: "MLH Fellowship",
+      badges: [],
+      href: "",
+      location: "Bengaluru, India",
+      title: "Software Engineering Fellow",
+      logoUrl: "/MLH.png",
+      start: "June 2022",
+      end: "August 2023",
+      description:
+        "Optimized autonomous drone resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced Kubernetes observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
     },
     {
       company: "Nokia",
@@ -81,9 +93,9 @@ export const DATA = {
       title: "Software Engineer Intern",
       logoUrl: "/nokia.png",
       start: "August 2023",
-      end: "July 2024",
+      end: "May 2024",
       description:
-        "Spearheaded migration of frontend from JSP to Reactjs, resulting in 14% increased efficiency, 27% reduced load time, and 10% faster navigation speed enhancing user experience",
+        "Improved REST API response time by 10% through migrating from JRuby to Spring, optimized search with a Binary Search Tree, developed a ROBOT framework for pre-testing and automated license uploads, and implemented a Python-based multipart upload system, improving reliability and reducing reuploads by 23%.",
     },
     {
       company: "Sneakily",
@@ -95,7 +107,7 @@ export const DATA = {
       start: "August 2022",
       end: "April 2023",
       description:
-        "Co-developed a prototype web app as well as hybrid mobile app for a ecommerce platform selling shoes through operating with local vendors who dont have aceess to Amazon marketplace.",
+        "Co-developed a prototype web application for local vendors, enabling direct sales of shoes to customers, and successfully onboarded multiple vendors, generating $80,000 in revenue within 8 months, fostering local entrepreneurship.",
     },
     {
       company: "Google Developer Student Club",
@@ -228,7 +240,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "\digital.png",
+      image: "/digital.png",
       video:
         "",
     },
