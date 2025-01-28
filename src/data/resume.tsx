@@ -15,7 +15,7 @@ export const DATA = {
   skills: [
     "Python",
     "Go lang",
-    "Django",
+    "FastAPI",
     "PostgreSQL",
     "Docker",
     "Kubernetes",
@@ -74,18 +74,6 @@ export const DATA = {
         "Developed and tested back-end systems for the CNUM feature, which played a key role in integrating network elements for 5G rollout. The system facilitated the integration plan for circle owners, ensuring effective network management."
     },
     {
-      company: "MLH Fellowship",
-      badges: [],
-      href: "",
-      location: "Bengaluru, India",
-      title: "Software Engineering Fellow",
-      logoUrl: "/MLH.png",
-      start: "June 2022",
-      end: "August 2023",
-      description:
-        "Optimized autonomous drone resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced Kubernetes observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
-    },
-    {
       company: "Nokia",
       badges: [],
       href: "https://www.nokia.com/",
@@ -98,6 +86,18 @@ export const DATA = {
         "Improved REST API response time by 10% through migrating from JRuby to Spring, optimized search with a Binary Search Tree, developed a ROBOT framework for pre-testing and automated license uploads, and implemented a Python-based multipart upload system, improving reliability and reducing reuploads by 23%.",
     },
     {
+      company: "MLH Fellowship",
+      badges: [],
+      href: "",
+      location: "Bengaluru, India",
+      title: "Software Engineering Fellow",
+      logoUrl: "/MLH.png",
+      start: "June 2022",
+      end: "July 2023",
+      description:
+        "Optimized autonomous drone resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced Kubernetes observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
+    },
+    {
       company: "Sneakily",
       badges: [],
       href: "",
@@ -105,7 +105,7 @@ export const DATA = {
       title: "Co Founder",
       logoUrl: "\sneakily.jpg",
       start: "August 2022",
-      end: "April 2023",
+      end: "May 2023",
       description:
         "Co-developed a prototype web application for local vendors, enabling direct sales of shoes to customers, and successfully onboarded multiple vendors, generating $80,000 in revenue within 8 months, fostering local entrepreneurship.",
     },
@@ -116,8 +116,8 @@ export const DATA = {
       location: "Chandigarh, India",
       logoUrl: "\gdsc.png",
       title: "Technical Member",
-      start: "July 2021",
-      end: "May 2022",
+      start: "August 2021",
+      end: "July 2022",
       description:
         "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students.",
     },
