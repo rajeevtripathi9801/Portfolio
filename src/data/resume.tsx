@@ -121,6 +121,17 @@ export const DATA = {
       description:
         "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students.",
     },
+    {
+      company: "Enigma Gaming",
+      badges: [],
+      location: "Mumbai, India",
+      logoUrl: "\enigma.png",
+      title: "Esports Athelete",
+      start: "August 2021",
+      end: "July 2022",
+      description:
+        "",
+    },
   ],
   education: [
     {
