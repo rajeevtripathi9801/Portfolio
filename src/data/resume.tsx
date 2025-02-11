@@ -130,7 +130,7 @@ export const DATA = {
       start: "August 2020",
       end: "July 2021",
       description:
-        "",
+        "Esports Athelete under PUBG division.",
     },
   ],
   education: [
