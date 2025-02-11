@@ -145,10 +145,10 @@ export const DATA = {
     {
       school: "Delhi Public School",
       href: "https://dpshardwar.com/",
-      degree: "Intermediate in Mathmatics",
+      degree: "Intermediate in Physics and Mathmatics",
       logoUrl: "/dps.png",
-      start: "2015",
-      end: "2019",
+      start: "",
+      end: "",
     },
   ],
   projects: [
