@@ -127,8 +127,8 @@ export const DATA = {
       location: "Mumbai, India",
       logoUrl: "\enigma.png",
       title: "Esports Athelete",
-      start: "August 2021",
-      end: "July 2022",
+      start: "August 2020",
+      end: "July 2021",
       description:
         "",
     },
