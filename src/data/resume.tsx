@@ -124,6 +124,7 @@ export const DATA = {
     {
       company: "Enigma Gaming",
       badges: [],
+      href: "https://www.linkedin.com/company/enigma-gaming-india/?originalSubdomain=in",
       location: "Mumbai, India",
       logoUrl: "\enigma.png",
       title: "Esports Athelete",
