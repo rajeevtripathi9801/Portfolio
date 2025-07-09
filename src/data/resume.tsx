@@ -71,7 +71,7 @@ export const DATA = {
       start: "September 2024",
       end: "Present",
       description:
-        "Developed and tested back-end systems for the CNUM feature, which played a key role in integrating network elements for 5G rollout. The system facilitated the integration plan for circle owners, ensuring effective network management."
+        "Led end-to-end migration of a production-grade Java system from JDK 8 to JDK 17, ensuring backward compatibility and helping retain a client worth $100K/year.."
     },
     {
       company: "Nokia",
@@ -83,7 +83,7 @@ export const DATA = {
       start: "August 2023",
       end: "May 2024",
       description:
-        "Improved REST API response time by 10% through migrating from JRuby to Spring, optimized search with a Binary Search Tree, developed a ROBOT framework for pre-testing and automated license uploads, and implemented a Python-based multipart upload system, improving reliability and reducing reuploads by 23%.",
+        "Accelerated API response times from 45s to 13s by replacing Jruby with C++ and optimizing search logic using a binary search tree for query."
     },
     {
       company: "MLH Fellowship",
@@ -95,7 +95,7 @@ export const DATA = {
       start: "June 2022",
       end: "July 2023",
       description:
-        "Optimized autonomous drone resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced Kubernetes observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
+        "Optimized resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
     },
     {
       company: "Sneakily",
