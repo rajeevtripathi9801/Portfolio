@@ -92,7 +92,7 @@ export const DATA = {
       location: "Bengaluru, India",
       title: "Software Engineering Fellow",
       logoUrl: "/MLH.png",
-      start: "June 2022",
+      start: "June 2023",
       end: "July 2023",
       description:
         "Optimized resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
