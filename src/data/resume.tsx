@@ -66,10 +66,22 @@ export const DATA = {
       href: "https://www.nokia.com/",
       badges: [],
       location: "Bengaluru, India",
-      title: "Software Engineer",
+      title: "Software Engineer II",
+      logoUrl: "/nokia.png",
+      start: "April 2026",
+      end: "Present",
+      description:
+        "Sole code-level owner of a multi-million dollar customer-facing Spring Boot platform designing, building and maintaining features for active telecom operator deployments, and mentoring an intern on the codebase"
+    },
+    {
+      company: "Nokia",
+      href: "https://www.nokia.com/",
+      badges: [],
+      location: "Bengaluru, India",
+      title: "Software Engineer I ",
       logoUrl: "/nokia.png",
       start: "September 2024",
-      end: "Present",
+      end: "March 2026",
       description:
         "Led end-to-end migration of a production-grade Java system from JDK 8 to JDK 17, ensuring backward compatibility and helping retain a client worth $100K/year.."
     },
@@ -80,7 +92,7 @@ export const DATA = {
       location: "Bengaluru, India",
       title: "Software Engineer Intern",
       logoUrl: "/nokia.png",
-      start: "August 2023",
+      start: "September 2023",
       end: "May 2024",
       description:
         "Accelerated API response times from 45s to 13s by replacing Jruby with C++ and optimizing search logic using a binary search tree for query."
@@ -92,22 +104,10 @@ export const DATA = {
       location: "Bengaluru, India",
       title: "Software Engineering Fellow",
       logoUrl: "/MLH.png",
-      start: "June 2023",
-      end: "July 2023",
+      start: "July 2023",
+      end: "August 2023",
       description:
         "Optimized resource allocation by implementing transfer learning and reinforcement learning, improving scanning efficiency by 17%, and enhanced observability by adding detailed metrics to the kubelet, tracking pod start-up times with improved data representation."
-    },
-    {
-      company: "Sneakily",
-      badges: [],
-      href: "",
-      location: "Chandigarh, India",
-      title: "Co Founder",
-      logoUrl: "\sneakily.jpg",
-      start: "August 2022",
-      end: "May 2023",
-      description:
-        "Co-developed a prototype web application for local vendors, enabling direct sales of shoes to customers, and successfully onboarded multiple vendors, generating $80,000 in revenue within 8 months, fostering local entrepreneurship.",
     },
     {
       company: "Google Developer Student Club",
@@ -116,8 +116,8 @@ export const DATA = {
       location: "Chandigarh, India",
       logoUrl: "\gdsc.png",
       title: "Technical Member",
-      start: "August 2021",
-      end: "July 2022",
+      start: "August 2022",
+      end: "June 2023",
       description:
         "Facilitated events for students interest in core computer science concepts and increased participation from 120 to 256 members around 110% increase and taught 20+ students.",
     },
@@ -129,7 +129,7 @@ export const DATA = {
       logoUrl: "\enigma.png",
       title: "Esports Athelete",
       start: "August 2020",
-      end: "July 2021",
+      end: "July 2022",
       description:
         "Esports Athelete under PUBG division.",
     },
