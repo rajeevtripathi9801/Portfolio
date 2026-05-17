@@ -93,7 +93,7 @@ export const DATA = {
       title: "Software Engineer Intern",
       logoUrl: "/nokia.png",
       start: "September 2023",
-      end: "May 2024",
+      end: "August 2024",
       description:
         "Accelerated API response times from 45s to 13s by replacing Jruby with C++ and optimizing search logic using a binary search tree for query."
     },
